@@ -1,72 +1,14 @@
 FRSC Creative Origin
 ================================
 
-http://www.litecoin.org
+Two days before Christmas in 1913, Woodrow Wilson signed the Federal Reserve Act. The law sought to end bank failures by creating a central banking system. But a century later, the Federal Reserve has become an enabler of the financial havoc it was designed to prevent. A look at the Fed's history offers some insight into the problems. 
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+Federal Reserve system coin (FRSC) was born in the Federal Reserve 100th birthday.This's a virtual currency experiment at the Financial system function, the world of a not without inflation and devaluation, let us feel the true meaning of the Federal Reserve system. 
 
-What is Litecoin?
-----------------
+December 18, 2013, the Fed announced its withdrawal of quantitative easing (QE), its withdrawal from January 2014, the monthly scale bond purchases will be reduced from 10 
 
-Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+billion to 75 billion U.S.  Five years ago, the Fed opened a lot of people have been likened to "printing machine" QE monetary policy.
 
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+FRSC use scrypt algorithm,produce one blocks per minute, the total 75 billion. Each block of the first year of a 20% reduction coins every 30 days,In the second year 
 
-For more information, as well as an immediately useable, binary version of
-the Litecoin client sofware, see http://www.litecoin.org.
-
-License
--------
-
-Litecoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
-
-Development process
--------------------
-
-Developers work in their own trees, then submit pull requests when they think
-their feature or bug fix is ready.
-
-If it is a simple/trivial/non-controversial change, then one of the Litecoin
-development team members simply pulls it.
-
-If it is a *more complicated or potentially controversial* change, then the patch
-submitter will be asked to start a discussion (if they haven't already) on the
-[mailing list](http://sourceforge.net/mailarchive/forum.php?forum_name=bitcoin-development).
-
-The patch will be accepted if there is broad consensus that it is a good thing.
-Developers should expect to rework and resubmit patches if the code doesn't
-match the project's coding conventions (see `doc/coding.txt`) or are
-controversial.
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of Litecoin.
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
-remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write unit tests for new code, and to
-submit new unit tests for old code.
-
-Unit tests for the core code are in `src/test/`. To compile and run them:
-
-    cd src; make -f makefile.unix test
-
-Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
-
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
-
+unchanged,third   year decreased by 50% per year,the total mining time is infinite.
