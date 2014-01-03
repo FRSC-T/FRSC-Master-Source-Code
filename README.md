@@ -1,4 +1,4 @@
-Litecoin integration/staging tree
+FRSC Creative Origin
 ================================
 
 http://www.litecoin.org
